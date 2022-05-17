@@ -1,6 +1,6 @@
 import cv2
 import imutils
-from pyimagesearch.transform import four_point_transform
+from transform import four_point_transform
 import numpy as np
 
 
